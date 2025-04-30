@@ -3,19 +3,19 @@ Game name: Update log📝
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(13).png?v=1745660212397
 
 Website url:https://mcbitt.glitch.me/ 
-Game name: MC🧱⛏️
+Game name: MC⛏️
 Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a
 
 Website url:https://bitt-movies.glitch.me/ 
-Game name: Movies & Tv Shows🎬🎥
+Game name: Movies & Tv Shows🎥
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/image-removebg-preview%20(10).png?v=1745676727453
 
 Website url:https://mariofortheboiz.pages.dev/start 
-Game name:SM64🌟🏰
+Game name:SM64🌟
 Image url:https://www.rollingstone.com/wp-content/uploads/2025/01/CC_SM-1.jpg?w=1581&h=1054&crop=1
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-ii-hell-earth-online/play/
-Game name:Doom 2🔫👹
+Game name:Doom 2🔫
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpg?v=1745648739422
 
 Website url: https://geometrydash-lite.com/
@@ -31,11 +31,11 @@ Game name:Pac man👻
 Image url:https://media.tenor.com/C22FQku5MPYAAAAM/pacman-eating-dots.gif
 
 Website url:https://gamesfrog.com/games/n64/paper-mario/iframe
-Game name:Paper mario 64📜🍄
+Game name:Paper mario 64🍄
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpg?v=1745648011322
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-wolfenstein-3d-online/play/ 
-Game name:Wolfenstein 3D🧑‍✈️🔫
+Game name:Wolfenstein 3D🔫
 Image url:https://cdn.mobygames.com/4aac86a8-e3ff-11ef-8b64-02420a00016a.webp
 
 Website url:https://happyhopper.org/ 
@@ -51,7 +51,7 @@ Game name:Sonic 🦔
 Image url:https://m.media-amazon.com/images/I/51xMP0QnIjL.png
 
 Website url:https://mkpc.malahieude.net/mariokart.php 
-Game name:Mario kart🚗⚡
+Game name:Mario kart🚗
 Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
 
 Website url:https://www.onlinescientificresearch.com/games/tetris/if.html
@@ -59,15 +59,15 @@ Game name:Tetris 🏆
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).jpg?v=1745615070761
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
-Game name:Doom💀🔫
+Game name:Doom💀
 Image url:https://sm.ign.com/t/ign_ap/cover/d/doom-1993/doom-1993_4hcy.1200.jpg
 
 Website url:https://www.retrogames.cz/play_987-N64.php 
-Game name:007 Goldeneye🔫🕵️‍♂️💣
+Game name:007 Goldeneye🕵️‍♂️
 Image url:https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/games3/fighter2 
-Game name:Street fighter 2👊🥊
+Game name:Street fighter 2👊
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/op9p.jpeg
 
 Website url:https://supermario-game.com/mario-game/mario.html 
@@ -79,15 +79,15 @@ Game name:Super mario bros 2🍄
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
 
 Website url:https://gam.onl/nes/super-mario-bros-3.html#super-mario-bros-3 
-Game name:Super mario bros 3🍄🏰🌟
+Game name:Super mario bros 3🍄
 Image url:https://gam.onl/user/nes/logos/Super%20Mario%20Bros.%203%20(USA).png
 
 Website url:https://playclassic.games/games/run-and-gun-snes-games-online/play-super-metroid-online/play/ 
-Game name:Super metroid👩‍🚀⚔️🌌
+Game name:Super metroid🌌
 Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMetroid_image1600w.jpg
 
 Website url:https://gamesfrog.com/games/gba/metroid-fusion/iframe 
-Game name:Metroid fusion👩‍🚀⚡
+Game name:Metroid fusion👩‍🚀
 Image url:https://shmuplations.com/wp-content/uploads/2022/01/metroidfusion00.jpg
 
 Website url:https://www.retrogames.cc/snes-games/donkey-kong-country-usa.html
