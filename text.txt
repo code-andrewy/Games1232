@@ -24,7 +24,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screens
 
 Website url:https://www.retrogames.cz/play_908-Genesis.php?language=EN 
 Game name:X-men🦸‍♂️
-Image url:https://static.wikia.nocookie.net/logopedia/images/f/ff/X-men-logo.png/revision/latest?cb=20140212195020
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/X-men-logo.webp?v=1746010830176
 
 Website url:https://pacman.live/play.html 
 Game name:Pac man👻
@@ -56,7 +56,7 @@ Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
 
 Website url:https://www.onlinescientificresearch.com/games/tetris/if.html
 Game name:Tetris 🏆
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20064737.png?v=1746010107354
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20070318.png?v=1746011011983
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
 Game name:Doom💀
