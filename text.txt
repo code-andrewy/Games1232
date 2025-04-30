@@ -8,7 +8,7 @@ Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/s
 
 Website url:https://bitt-movies.glitch.me/ 
 Game name: Movies & Tv Shows🎥
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/image-removebg-preview%20(10).png?v=1745676727453
+Image url:🎥
 
 Website url:https://mariofortheboiz.pages.dev/start 
 Game name:SM64🌟
