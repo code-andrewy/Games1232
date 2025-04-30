@@ -54,10 +54,6 @@ Website url:https://mkpc.malahieude.net/mariokart.php
 Game name:Mario kart🚗
 Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
 
-Website url:https://www.onlinescientificresearch.com/games/tetris/if.html
-Game name:Tetris 🏆
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20070318.png?v=1746011011983
-
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
 Game name:Doom💀
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXohmzYM9CNUz5eu9YHKpJa1CWI_sUEV3SlQ&s
