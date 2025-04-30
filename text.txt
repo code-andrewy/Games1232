@@ -58,46 +58,46 @@ Website url:https://mkpc.malahieude.net/mariokart.php
 Game name:Mario kart
 Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
 
-Website url:
-Game name:
-Image url:
+Website url:https://www.onlinescientificresearch.com/games/tetris/if.html
+Game name:Tetris 
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).jpg?v=1745615070761
 
-Website url: 
-Game name:
-Image url:
+Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
+Game name:Doom
+Image url:https://sm.ign.com/t/ign_ap/cover/d/doom-1993/doom-1993_4hcy.1200.jpg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://retrogamesfree.com/007-goldeneye-usa.embed 
+Game name:007 Goldeneye 
+Image url:https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/games3/fighter2 
+Game name:Street fighter 2
+Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/op9p.jpeg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://supermario-game.com/mario-game/mario.html 
+Game name:Super mario bros 1
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNE-UXYIkebMRGR3_8_m7XktJZBeyOLyVHw&s
 
-Website url:
-Game name:
-Image url:
+Website url:https://gamesfrog.com/games/nes/super-mario-bros-2/iframe
+Game name:Super mario bros 2
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
 
-Website url: 
-Game name:
-Image url:
+Website url:https://gam.onl/nes/super-mario-bros-3.html#super-mario-bros-3 
+Game name:Super mario bros 3
+Image url:https://gam.onl/user/nes/logos/Super%20Mario%20Bros.%203%20(USA).png
 
-Website url: 
-Game name:
-Image url:
+Website url:https://playclassic.games/games/run-and-gun-snes-games-online/play-super-metroid-online/play/ 
+Game name:Super metroid
+Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMetroid_image1600w.jpg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://gamesfrog.com/games/gba/metroid-fusion/iframe 
+Game name:Metroid fusion
+Image url:https://shmuplations.com/wp-content/uploads/2022/01/metroidfusion00.jpg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://playclassic.games/games/adventure-dos-games-online/oregon-trail-game/play/ 
+Game name:Oregon Trail 🐂
+Image url:https://i.ytimg.com/vi/29mzk7nZ6pA/maxresdefault.jpg
 
-Website url: 
-Game name:
-Image url:
+Website url:https://webglmath.github.io/moto-x3m/ 
+Game name:Moto x3m
+Image url:https://cdn.glitch.global/76b3187d-5e92-407b-a15a-9b8f1ec76074/download%20(12).jpg?v=1745962565172
