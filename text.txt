@@ -46,10 +46,6 @@ Website url:https://static.arcadespot.com/retroemulator.php?system=n64&game=2017
 Game name:Donkey Kong 64
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).jpg?v=1745647082403
 
-Website url:https://freekong.org/
-Game name:Donkey Kong
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/donkey-kong-%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0-game-boy-1994-box-art-v0-p2j7re7ow2v81.webp?v=1745640270325
-
 Website url:https://www.allsonicgames.net/sonic-the-hedgehog.php 
 Game name:Sonic 
 Image url:https://m.media-amazon.com/images/I/51xMP0QnIjL.png
