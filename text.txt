@@ -20,7 +20,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 
 Website url: https://downloads.webmulator.com/self-load/index.html
 Game name: Rom loader💾
-Image url:https://images.openai.com/thumbnails/66b0a2c7d96a39b93f62690560a0f69d.png
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-05-02%20145211.png?v=1746211965186
 
 Website url: https://geometrydash-lite.com/
 Game name: Geometry dash🎵
