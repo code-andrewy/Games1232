@@ -97,3 +97,7 @@ Image url:https://i.ytimg.com/vi/29mzk7nZ6pA/maxresdefault.jpg
 Website url:https://webglmath.github.io/moto-x3m/ 
 Game name:Moto x3m 🏍️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(14).jpg?v=1746010444325
+
+Website url:https://www.gamestalgia.net/engine?game=crash-bandicoot
+Game name: Crash Bandicoot🦊
+Image url:https://m.media-amazon.com/images/M/MV5BZThmZTEzNjktNDNiMi00YjMyLWEzYmMtNmU5YzU1ZGNjZDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
