@@ -113,3 +113,11 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 Website url:https://www.gamestalgia.net/engine?game=crash-bandicoot
 Game name: Crash Bandicoot🦊
 Image url:https://m.media-amazon.com/images/M/MV5BZThmZTEzNjktNDNiMi00YjMyLWEzYmMtNmU5YzU1ZGNjZDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+
+Website url:https://drivemad.me/iframe/index.html
+Game name: Drive mad🛻
+Image url:https://www.drivemad.com/img/android-chrome-512x512.png
+
+Website url:https://en.gameslol.net/data/adcapitalist/index.html
+Game name: Adventure capitalism🍋
+Image url:https://styles.redditmedia.com/t5_32lqw/styles/communityIcon_8iacgjn786de1.png
