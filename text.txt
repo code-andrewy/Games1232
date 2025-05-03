@@ -121,3 +121,7 @@ Image url:https://www.drivemad.com/img/android-chrome-512x512.png
 Website url:https://en.gameslol.net/data/adcapitalist/index.html
 Game name: Adventure capitalism🍋
 Image url:https://styles.redditmedia.com/t5_32lqw/styles/communityIcon_8iacgjn786de1.png
+
+Website url:https://player.work/cookie-clicker/
+Game name: Cookie Clicker🍪
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVwoAwNUqReJVCrsPvvGsGG9or47_yvPA6BRwZnO1U9FJdqw0Ad9uD5rTuVDQvEQzX3Fne
