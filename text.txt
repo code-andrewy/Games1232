@@ -2,10 +2,6 @@ Website url:https://bitt-updatelog.glitch.me
 Game name: Update log📝
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(13).png?v=1745660212397
 
-Website url:https://mcbitt.glitch.me/ 
-Game name: MC⛏️
-Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a
-
 Website url:https://bitt-movies.glitch.me/ 
 Game name: Movies & Tv Shows🎥
 Image url:https://images.emojiterra.com/openmoji/v15.1/1024px/1f3ac.png
@@ -14,6 +10,14 @@ Website url:https://organizations.minnit.chat/377538369268026//Main?embed
 Game name:Chat room💬
 Image url:https://static.vecteezy.com/system/resources/thumbnails/006/692/321/small_2x/chatting-message-icon-template-black-color-editable-chatting-message-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg
 
+Website url: https://downloads.webmulator.com/self-load/index.html
+Game name: Emulator💾
+Image url:https://yt3.googleusercontent.com/HNg_MA3lYwk6JCHxftRxRUAcMFK0334jI3-G-ERWMnTe5vIT1fORQ2er531XI_eCnMl4v_Wtk38=s900-c-k-c0x00ffffff-no-rj
+
+Website url:https://mcbitt.glitch.me/ 
+Game name: MC⛏️
+Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a
+
 Website url:https://mariofortheboiz.pages.dev/start 
 Game name:SM64🌟
 Image url:https://www.rollingstone.com/wp-content/uploads/2025/01/CC_SM-1.jpg?w=1581&h=1054&crop=1
@@ -21,10 +25,6 @@ Image url:https://www.rollingstone.com/wp-content/uploads/2025/01/CC_SM-1.jpg?w=
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-ii-hell-earth-online/play/
 Game name:Doom 2🔫
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpg?v=1745648739422
-
-Website url: https://downloads.webmulator.com/self-load/index.html
-Game name: Emulator💾
-Image url:https://yt3.googleusercontent.com/HNg_MA3lYwk6JCHxftRxRUAcMFK0334jI3-G-ERWMnTe5vIT1fORQ2er531XI_eCnMl4v_Wtk38=s900-c-k-c0x00ffffff-no-rj
 
 Website url: https://geometrydash-lite.com/
 Game name: Geometry dash🎵
