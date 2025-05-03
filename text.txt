@@ -129,3 +129,7 @@ Image url:https://ih1.redbubble.net/image.1400424304.4932/flat,750x,075,f-pad,75
 Website url:https://www.coolmathgames.com/0-tiny-fishing/play
 Game name: Tiny Fishing🐟
 Image url:https://cdn.glitch.global/489895e4-8692-4334-b5d0-e149da9a1438/download%20(15).jpg?v=1746295028750
+
+Website url:https://www.playroms.net/snes-roms/super-mario-world/
+Game name: Super mario bros world🍄
+Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMarioWorld.jpg
