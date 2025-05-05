@@ -134,4 +134,6 @@ Website url:https://userinyerface.com/
 Game name: Userinyerface
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).png?v=1746433102709
 
-
+Website url:https://stimulationclicker.com/stimulation-clicker.embed
+Game name: Stimulation clicker
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(17).jpg?v=1746434475145
