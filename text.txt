@@ -137,3 +137,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 Website url:https://stimulationclicker.com/stimulation-clicker.embed
 Game name: Stimulation clicker🖱️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(17).jpg?v=1746434475145
+
+Website url:https://sz-games.github.io/games/tunnel-rush/
+Game name: Tunnel rush
+Image url:https://mouse-practice.com/wp-content/uploads/2023/01/tunnelrush.png
