@@ -153,3 +153,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 Website url:https://www.boredbutton.com/
 Game name:Bored button 🔴
 Image url:https://cdn.glitch.global/495cb4f7-b0ef-4056-bc6e-8f096a2e91a1/download%20(19).jpg?v=1746696993292
+
+Website url:https://www.window-swap.com/Window
+Game name:Window swap
+Image url:https://pbs.twimg.com/profile_images/1286539530724503552/3EYABPWD_400x400.jpg
