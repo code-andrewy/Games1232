@@ -166,3 +166,7 @@ Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cov
 Website url:https://sz-games.github.io/games/game.html?game=https://mr-funkinguy.github.io/gfile/doodle/index.html
 Game name: Doodle jump
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/09ML.avif
+
+Website url:https://sz-games.github.io/games/game.html?game=https://mr-funkinguy.github.io/gfile/doodle/index.html
+Game name: Bitlife
+Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/09ML.avif
