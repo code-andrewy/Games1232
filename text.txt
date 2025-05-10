@@ -168,5 +168,5 @@ Game name: Doodle jump
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/09ML.avif
 
 Website url:https://sz-games.github.io/rating.html?game=bitlife&&url=https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games9/bitlife
-Game name: Bitlife
+Game name: Bitlife ᯡ
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7ygN81ar3WYGOPdJ05-xOW5iMEkqaAVM3Q&s
