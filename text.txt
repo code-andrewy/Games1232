@@ -104,7 +104,7 @@ Game name:Moto x3m 🏍️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(14).jpg?v=1746010444325
 
 Website url:https://www.gamestalgia.net/engine?game=crash-bandicoot
-Game name: Crash Bandicoot🦊
+Game name: Crash Bandicoot🦊(Fixed)
 Image url:https://m.media-amazon.com/images/M/MV5BZThmZTEzNjktNDNiMi00YjMyLWEzYmMtNmU5YzU1ZGNjZDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 
 Website url:https://drive-mad-online.github.io/file/
