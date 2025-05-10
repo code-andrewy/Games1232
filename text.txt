@@ -157,3 +157,8 @@ Image url:https://techcrunch.com/wp-content/uploads/2016/07/screen-shot-2016-07-
 Website url:https://g.igroutka.ru/games/164/CjgS2O06mqMahbd8/12/subway_surfers_iceland/
 Game name: Subway Surfers
 Image url:https://subway-surfers.org/wp-content/uploads/2025/01/Subway-surfers-iceland-2024.jpg
+
+
+Website url:https://slope.faav.top/
+Game name: Slope
+Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download.png?v=1746886332873
