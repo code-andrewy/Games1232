@@ -171,6 +171,6 @@ Website url:https://sz-games.github.io/rating.html?game=bitlife&&url=https://sz-
 Game name: Bitlife ᯡ
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7ygN81ar3WYGOPdJ05-xOW5iMEkqaAVM3Q&s
 
-Website url:https://slope.faav.top/
+Website url:https://sz-games.github.io/
 Game name: Sz games
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download.png?v=1746886332873
