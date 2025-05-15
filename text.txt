@@ -194,3 +194,7 @@ Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cov
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games7/escaping_the_prison.swf?raw=true
 Game name: Sz games
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Prison.webp
+
+Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games6/Henry%20Stickmin%20-%20Breaking%20the%20Bank.swf?raw=true
+Game name: Breaking the bank 💰 
+Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BankH.webp
