@@ -202,3 +202,7 @@ Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cov
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games/paperio2/index.html
 Game name: Paper io 2
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/paperio.webp
+
+Website url:https://flyufo.io/
+Game name: Fly ufo 
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpeg?v=1747304678668
