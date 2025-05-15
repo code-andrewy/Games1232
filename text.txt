@@ -176,37 +176,37 @@ Game name: Sz games
 Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
 
 Website url:https://startgamer.net/
-Game name: Start gamer
+Game name: 🆕Start gamer
 Image url:https://startgamer.net/favicon.ico
 
 Website url:https://sz-games.github.io/games/bloxx
-Game name: Bloxorz
+Game name: 🆕Bloxorz
 Image url:https://github.com/sz-games/sz-games.github.io/blob/main/cover/blox.jpeg?raw=true
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/storage3/eelslap/
-Game name: Eelslap
+Game name: 🆕Eelslap
 Image url:https://raw.githubusercontent.com/sz-games/storage3/refs/heads/main/eelslap/Screenshot%202023-04-25%20at%202.35.48%20PM.png
 
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games6/Henry%20Stickmin%20-%20Fleeing%20the%20Complex.swf?raw=true
-Game name: Fleeing the complex 
+Game name: 🆕Fleeing the complex 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Complex.webp
 
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games7/escaping_the_prison.swf?raw=true
-Game name: Escaping the prison 
+Game name:🆕 Escaping the prison 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Prison.webp
 
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games6/Henry%20Stickmin%20-%20Breaking%20the%20Bank.swf?raw=true
-Game name: Breaking the bank 💰 
+Game name: 🆕Breaking the bank 💰 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BankH.webp
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games/paperio2/index.html
-Game name: Paper io 2
+Game name: 🆕Paper io 2
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/paperio.webp
 
 Website url:https://flyufo.io/
-Game name: Fly ufo 
+Game name: 🆕Fly ufo 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpeg?v=1747304678668
 
 Website url:https://holeio.com/
-Game name: Hole io
+Game name: 🆕 Hole io
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpeg?v=1747304840617
