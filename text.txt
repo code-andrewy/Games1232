@@ -186,3 +186,11 @@ Image url:https://github.com/sz-games/sz-games.github.io/blob/main/cover/blox.jp
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/storage3/eelslap/
 Game name: Eelslap
 Image url:https://raw.githubusercontent.com/sz-games/storage3/refs/heads/main/eelslap/Screenshot%202023-04-25%20at%202.35.48%20PM.png
+
+Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games6/Henry%20Stickmin%20-%20Fleeing%20the%20Complex.swf?raw=true
+Game name: Fleeing the complex 
+Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Complex.webp
+
+Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games7/escaping_the_prison.swf?raw=true
+Game name: Sz games
+Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Prison.webp
