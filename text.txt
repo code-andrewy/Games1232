@@ -175,9 +175,9 @@ Website url:https://sz-games.github.io/
 Game name: Sz games
 Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
 
-Website url:https://sz-games.github.io/
-Game name: Sz games
-Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
+Website url:https://startgamer.net/
+Game name: Start gamer
+Image url:https://startgamer.net/favicon.ico
 
 Website url:https://sz-games.github.io/games/bloxx
 Game name: Bloxorz
