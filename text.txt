@@ -174,3 +174,15 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7ygN81ar3WYGOP
 Website url:https://sz-games.github.io/
 Game name: Sz games
 Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
+
+Website url:https://sz-games.github.io/
+Game name: Sz games
+Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
+
+Website url:https://sz-games.github.io/games/bloxx
+Game name: Bloxorz
+Image url:https://github.com/sz-games/sz-games.github.io/blob/main/cover/blox.jpeg?raw=true
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/storage3/eelslap/
+Game name: Eelslap
+Image url:https://raw.githubusercontent.com/sz-games/storage3/refs/heads/main/eelslap/Screenshot%202023-04-25%20at%202.35.48%20PM.png
