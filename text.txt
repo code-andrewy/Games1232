@@ -177,7 +177,7 @@ Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
 
 Website url:https://startgamer.net/
 Game name: Start gamer
-Image url:https://startgamer.net/favicon.ico
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(1).png?v=1747380137260
 
 Website url:https://sz-games.github.io/games/bloxx
 Game name: Bloxorz
