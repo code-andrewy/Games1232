@@ -1,0 +1,243 @@
+
+  <style>
+    :root {
+      --bg: #121212;
+      --card: #1e1e1e;
+      --accent: #000000;
+      --text: #f5f5f5;
+      --text-muted: #bbbbbb;
+    }
+
+    body {
+      margin: 0;
+      background-color: var(--bg);
+      font-family: 'Segoe UI', sans-serif;
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      opacity: 0;
+      animation: fadeIn 1s forwards;
+    }
+
+    header {
+      background: linear-gradient(to right, #111, #333);
+      padding: 1rem;
+      text-align: center;
+      color: white;
+      font-size: 1.3rem;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+      animation: slideInFromTop 0.5s ease-in-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideInFromTop {
+      from { transform: translateY(-50px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    #searchBar {
+      margin: 2rem auto 1rem;
+      display: block;
+      width: 85%;
+      max-width: 600px;
+      padding: 1rem 1.2rem;
+      border-radius: 12px;
+      border: 1px solid var(--accent);
+      background: linear-gradient(145deg, #1a1a1a, #2a2a2a);
+      color: var(--text);
+      font-size: 1.1rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      transition: all 0.3s ease;
+    }
+
+    #searchBar:focus {
+      width: 92%;
+      max-width: 700px;
+      outline: none;
+      box-shadow: 0 0 12px rgba(255, 255, 255, 0.7);
+    }
+
+    #gameList {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      padding: 1rem;
+    }
+
+    .sectionTitle {
+      text-align: center;
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .favoritesSection .sectionTitle {
+      color: gold;
+    }
+
+    .othersSection .sectionTitle {
+      color: var(--text-muted);
+    }
+
+    .gameSection {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1.5rem;
+    }
+
+    .gameCard {
+      background-color: var(--card);
+      border-radius: 15px;
+      width: 220px;
+      overflow: hidden;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      cursor: pointer;
+      position: relative;
+    }
+
+    .gameCard.favorite {
+      border: 2px solid gold;
+      box-shadow: 0 0 15px gold;
+    }
+
+    .gameCard:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 6px 25px rgba(0,0,0,0.5);
+    }
+
+    .gameCard img {
+      width: 100%;
+      height: 130px;
+      object-fit: cover;
+    }
+
+    .gameCard h3 {
+      margin: 0.5rem;
+      font-size: 1rem;
+      color: var(--text);
+    }
+
+    .fav-heart {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 2rem;
+      color: #f00;
+      user-select: none;
+      transition: transform 0.3s ease, color 0.3s ease;
+    }
+
+    .fav-heart:hover {
+      transform: scale(1.5);
+      color: #b0b0b0;
+    }
+
+    .fav-heart.not-fav {
+      color: #b0b0b0;
+    }
+
+    .fav-heart.not-fav:hover {
+      color: #ff6666;
+    }
+
+    #gameFrameContainer {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      padding: 0;
+      flex: 1;
+    }
+
+    #gameFrame {
+      width: 100%;
+      height: 100vh;
+      border: none;
+    }
+
+    #backButton {
+      background-color: black;
+      border: none;
+      padding: 0.5rem 1rem;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: white;
+      border-radius: 10px;
+      cursor: pointer;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 10;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    #backButton:hover {
+      background-color: #000000;
+      transform: scale(1.1);
+    }
+
+    #yesButton, #noButton {
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      font-weight: bold;
+      border-radius: 10px;
+      cursor: pointer;
+      margin: 0 0.5rem;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    #yesButton {
+      background-color: #28a745;
+      color: white;
+    }
+
+    #yesButton:hover {
+      background-color: #218838;
+      transform: scale(1.1);
+    }
+
+    #noButton {
+      background-color: #dc3545;
+      color: white;
+    }
+
+    #noButton:hover {
+      background-color: #c82333;
+      transform: scale(1.1);
+    }
+
+    #overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.7);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    #overlayContent {
+      background-color: var(--card);
+      padding: 2rem;
+      border-radius: 15px;
+      text-align: center;
+      color: var(--text);
+    }
+
+    @media (max-width: 600px) {
+      #gameFrame {
+        height: 80vh;
+      }
+    }
+  </style>
