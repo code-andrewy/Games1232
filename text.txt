@@ -4,8 +4,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_00
 
 Website url:https://pacific-rapid-paprika.glitch.me/
 Game name: Random game picker🎮 
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2
-.png?v=1747382902670
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
 
 Website url:https://serversbitt.glitch.me/
 Game name: Movies & Tv Shows🎥
