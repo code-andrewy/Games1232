@@ -43,7 +43,7 @@ Game name:Pac man👻
 Image url:https://media.tenor.com/C22FQku5MPYAAAAM/pacman-eating-dots.gif
 
 Website url:https://gamesfrog.com/games/n64/paper-mario/iframe
-Game name:Paper mario 64🍄
+Game name:Paper mario🍄
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpg?v=1745648011322
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-wolfenstein-3d-online/play/ 
@@ -111,8 +111,8 @@ Game name:Moto x3m 🏍️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(14).jpg?v=1746010444325
 
 Website url:https://www.retrogames.cc/embed/40784-crash-bandicoot.html
-Game name: Crash Bandicoot🦊(Fixed)
-Image url:https://m.media-amazon.com/images/M/MV5BZThmZTEzNjktNDNiMi00YjMyLWEzYmMtNmU5YzU1ZGNjZDJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
+Game name: Crash Bandicoot🦊
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(7).jpeg?v=1747727194439
 
 Website url:https://drive-mad-online.github.io/file/
 Game name: Drive mad🛻
