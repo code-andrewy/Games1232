@@ -110,6 +110,10 @@ Website url:https://webglmath.github.io/moto-x3m/
 Game name:Moto x3m 🏍️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(14).jpg?v=1746010444325
 
+Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games5/motox3m2
+Game name: Motox 3m 2
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/X3M2.png
+
 Website url:https://www.retrogames.cc/embed/40784-crash-bandicoot.html
 Game name: Crash Bandicoot🦊
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(7).jpeg?v=1747727194439
@@ -221,3 +225,8 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games9/fruitninja/
 Game name: Fruit ninja
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/FRUITNINJA.png
+
+Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games5/jetpack-joyride/
+Game name: Jetpack joyride
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/jetpackjoyride.webp
+
