@@ -217,3 +217,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 Website url:https://holeio.com/
 Game name: Hole io
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpeg?v=1747304840617
+
+Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games9/fruitninja/
+Game name: Fruit ninja
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/FRUITNINJA.png
