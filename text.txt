@@ -230,3 +230,7 @@ Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.gi
 Game name: Jetpack joyride
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/jetpackjoyride.webp
 
+Website url: https://sz-games.github.io/games/game.html?game=/Games11/basketbros
+Game name: Basketbros
+Image url: https://sz-games.github.io/cover/BASKETBRO.png
+
