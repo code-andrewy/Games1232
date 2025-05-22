@@ -2,6 +2,10 @@ Website url:https://forms.gle/ug1DLTusLaEeQV34A
 Game name: Request games 🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
 
+Website url:https://bitt-updatelog.glitch.me/
+Game name: Update log📝 
+Image url:https://cdn.glitch.global/489895e4-8692-4334-b5d0-e149da9a1438/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(19).png?v=1747902668015
+
 Website url:https://pacific-rapid-paprika.glitch.me/
 Game name: Random game picker🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
@@ -242,6 +246,6 @@ Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.git
 Game name: 30 dollar website
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/30dollarwebsite.png
 
-Website url:https://sz-games.github.io/games/Flash.html?game=/Games11/blockblast/game.html
+Website url:https://block-blast.io/game/block-blast/
 Game name: Block blast
 Image url: https://sz-games.github.io/cover/blockblast.jpg
