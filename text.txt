@@ -2,10 +2,6 @@ Website url:https://forms.gle/ug1DLTusLaEeQV34A
 Game name: Request games 🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
 
-Website url:https://bitt-updatelog.glitch.me/
-Game name: Update log📝 
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(21).png?v=1747903089582
-
 Website url:https://pacific-rapid-paprika.glitch.me/
 Game name: Random game picker🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
