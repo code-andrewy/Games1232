@@ -2,7 +2,7 @@ Website url:https://forms.gle/ug1DLTusLaEeQV34A
 Game name: Request games 🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
 
-Website url:https://pacific-rapid-paprika.glitch.me/
+Website url:https://code-andrewy.github.io/jumpman64beta/gamepicker.html
 Game name: Random game picker🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
 
