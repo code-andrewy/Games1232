@@ -239,7 +239,7 @@ Game name: Plants vs Zombies(fixed)
 Image url: https://sz-games.github.io/cover/pvz.png
 
 Website url:https://thirtydollar.website/
-Game name: 30 dollar website
+Game name: 30 dollar website (new sounds)
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/30dollarwebsite.png
 
 Website url:https://block-blast.io/game/block-blast/
