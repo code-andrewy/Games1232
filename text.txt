@@ -234,8 +234,8 @@ Website url: https://sz-games.github.io/games/game.html?game=/Games11/basketbros
 Game name: Basketbros
 Image url: https://sz-games.github.io/cover/BASKETBRO.png
 
-Website url: https://sz-games.github.io/games/Flash.html?game=/Games11/pvz.swf
-Game name: Plants vs zombies 
+Website url: https://pvz.ee/
+Game name: Plants vs Zombies(fixed) 
 Image url: https://sz-games.github.io/cover/pvz.png
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games6/30dollarwebsite
