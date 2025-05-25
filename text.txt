@@ -247,5 +247,9 @@ Game name: Block blast
 Image url: https://sz-games.github.io/cover/blockblast.jpg
 
 Website url:https://sweltering-rust-place.glitch.me/
-Game name: Monster miner
+Game name: Monster Miner
 Image url: https://cdn.glitch.global/d23b91b5-5129-4f4f-9626-8801da2d0e36/Screenshot%202025-05-25%20040313.png?v=1748160213108
+
+Website url:https://neon-spice-writer.glitch.me/
+Game name: Getting over it
+Image url: https://cdn.glitch.global/a620e573-88c3-443a-9efd-a3568749d2b8/download%20(7).png?v=1748161117724
