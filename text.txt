@@ -245,3 +245,7 @@ Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/co
 Website url:https://block-blast.io/game/block-blast/
 Game name: Block blast
 Image url: https://sz-games.github.io/cover/blockblast.jpg
+
+Website url:https://sweltering-rust-place.glitch.me/
+Game name: Monster miner
+Image url: https://cdn.glitch.global/d23b91b5-5129-4f4f-9626-8801da2d0e36/Screenshot%202025-05-25%20040313.png?v=1748160213108
