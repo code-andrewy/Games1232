@@ -269,3 +269,19 @@ Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/co
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex3
 Game name:Vex 3
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex4
+Game name:Vex 4
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex5
+Game name:Vex 5
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex6
+Game name:Vex 6
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex7
+Game name:Vex 7
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
