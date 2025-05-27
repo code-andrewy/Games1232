@@ -24,7 +24,7 @@ Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/downloa
 
 Website url:https://infinite-craft.com/recipes/
 Game name: Infinite craft recipes
-Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(21).jpg?v=1748333657766
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).png?v=1748339820547
 
 Website url:https://code-andrewy.github.io/jumpman64beta/mc.html
 Game name: MC⛏️
