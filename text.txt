@@ -298,6 +298,10 @@ Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.git
 Game name:Vex 7
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
 
+Website url:https://blobby-boi.github.io/vex8/
+Game name:Vex 8
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games8/GRANNY
 Game name:Granny
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/GRANNY.png
