@@ -278,6 +278,14 @@ Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.git
 Game name: A big red button
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BRB5.png
 
+Website url:https://www.play-games.com/embed/24175.html
+Game name:Vex 1
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
+Website url:https://www.silvergames.com/en/vex-2/gameframe#adtest
+Game name:Vex 2
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
+
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex3
 Game name:Vex 3
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
