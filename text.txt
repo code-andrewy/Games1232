@@ -309,3 +309,9 @@ Image url: https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/downlo
 Website url:https://2048game.com/
 Game name:2048
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(8).png?v=1748336134793
+
+Website url:https://blobby-boi.github.io/Baldi/
+Game name:Baldi's Basics
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(23).jpg?v=1748498624440
+
+
