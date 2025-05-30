@@ -413,36 +413,44 @@ Category: Unsorted
 Website url:https://1games.io/embed/duck-duck-clicker
 Game name: Duckduck clicker 3d
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(8).jpeg?v=1748595256004
-
+Category: Casual & Clicker Games
 
 Website url:https://startgamer.net/game/28940#mf
 Game name: Crossy road
 Image url:https://fast.startgamer.net/i/images/28940/thumb/game_28940_5fad1895620de.jpg
+Category: Casual & Clicker Games
 
 Website url:https://startgamer.net/game/27941
 Game name:Bob the robber
 Image url:https://fast.startgamer.net/i/images/27941/thumb/game_27941_5d8e225539b36.jpeg
+Category:Bob the robber
 
 Website url:https://startgamer.net/game/27943
 Game name:Bob the robber 2
 Image url:https://fast.startgamer.net/i/images/27943/thumb/game_27943_5d8e2c86b047f.jpeg
+Category:Bob the robber
 
 Website url:https://startgamer.net/game/27949
 Game name:Bob the robber 3
 Image url:https://fast.startgamer.net/i/images/27949/thumb/game_27949_5d9060e314f16.jpg
+Category:Bob the robber
 
 Website url:https://startgamer.net/game/27951
 Game name:Bob the robber 4 (Season 1)
 Image url:https://fast.startgamer.net/i/images/27951/thumb/game_27951_5d9071a4bc87a.jpg
+Category:Bob the robber
 
 Website url: https://startgamer.net/game/27952
 Game name:Bob the robber 4 (Season 2)
 Image url:https://fast.startgamer.net/i/images/27952/thumb/game_27952_5d9085837fc1c.jpeg
+Category:Bob the robber
 
 Website url: https://startgamer.net/game/27954
 Game name:Bob the robber 5: Temple adventure 
 Image url:https://fast.startgamer.net/i/images/27954/thumb/game_27954_5d90a29c9ca41.jpeg
+Category:Bob the robber
 
 Website url: https://startgamer.net/game/28998
 Game name:Temple run 2
 Image url:https://fast.startgamer.net/i/images/28998/thumb/game_28998_61b8b5879bb48.jpg
+Category:Category: Unsorted
