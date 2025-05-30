@@ -369,3 +369,7 @@ Image url:https://fast.startgamer.net/i/images/27952/thumb/game_27952_5d9085837f
 Website url: https://startgamer.net/game/27954
 Game name:Bob the robber 5: Temple adventure 
 Image url:https://fast.startgamer.net/i/images/27954/thumb/game_27954_5d90a29c9ca41.jpeg
+
+Website url: https://startgamer.net/game/28998
+Game name:Temple run 2
+Image url:https://fast.startgamer.net/i/images/28998/thumb/game_28998_61b8b5879bb48.jpg
