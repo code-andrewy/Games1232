@@ -22,7 +22,7 @@ Category:Apps
 Website url: https://downloads.webmulator.com/self-load/index.html
 Game name: Emulator💾
 Image url:https://yt3.googleusercontent.com/HNg_MA3lYwk6JCHxftRxRUAcMFK0334jI3-G-ERWMnTe5vIT1fORQ2er531XI_eCnMl4v_Wtk38=s900-c-k-c0x00ffffff-no-rj
-Category:Apps
+Category: Retro 
 
 Website url:https://www.myinstants.com/en/search/?name=MEME
 Game name:Soundboard
@@ -48,10 +48,12 @@ Image url:https://cdn.glitch.global/f6d350ca-2b81-472a-9642-93d9f1e2fe39/Screens
 Website url:https://mariofortheboiz.pages.dev/start 
 Game name:SM64🌟
 Image url:https://www.rollingstone.com/wp-content/uploads/2025/01/CC_SM-1.jpg?w=1581&h=1054&crop=1
+Category:Retro
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-ii-hell-earth-online/play/
 Game name:Doom 2🔫
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpg?v=1745648739422
+Category:Retro
 
 Website url: https://geometrydash-lite.com/
 Game name: Geometry dash🎵
@@ -60,74 +62,92 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screens
 Website url:https://www.retrogames.cz/play_908-Genesis.php?language=EN 
 Game name:X-men🦸‍♂️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/X-men-logo.webp?v=1746010830176
+Category:Retro
 
 Website url:https://pacman.live/play.html 
 Game name:Pac man👻
 Image url:https://media.tenor.com/C22FQku5MPYAAAAM/pacman-eating-dots.gif
+Category:Retro
 
 Website url:https://gamesfrog.com/games/n64/paper-mario/iframe
 Game name:Paper mario🍄
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpg?v=1745648011322
+Category:Retro
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-wolfenstein-3d-online/play/ 
 Game name:Wolfenstein 3D🔫
 Image url:https://cdn.mobygames.com/4aac86a8-e3ff-11ef-8b64-02420a00016a.webp
+Category:Retro
 
 Website url:https://happyhopper.org/ 
 Game name:Frogger🐸
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0Da0z7d_s8Dl_npMXVjfSXRnZIASg6Jsmw&s
+Category:Retro
 
 Website url:https://static.arcadespot.com/retroemulator.php?system=n64&game=2017/06/donkey-kong-64.zip 
 Game name:Donkey Kong 64🍌
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).jpg?v=1745647082403
+Category:Retro
 
 Website url:https://www.allsonicgames.net/sonic-the-hedgehog.php 
 Game name:Sonic 🦔
 Image url:https://m.media-amazon.com/images/I/51xMP0QnIjL.png
+Category:Retro
 
 Website url:https://mkpc.malahieude.net/mariokart.php 
 Game name:Mario kart🚗
 Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
+Category:Retro
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
 Game name:Doom💀
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXohmzYM9CNUz5eu9YHKpJa1CWI_sUEV3SlQ&s
+Category:Retro
 
 Website url:https://www.retrogames.cz/play_987-N64.php 
 Game name:007 Goldeneye🕵️‍♂️
 Image url:https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
+Category:Retro
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/games3/fighter2 
 Game name:Street fighter 2👊
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20063727.png?v=1746009463220
+Category:Retro
 
 Website url:https://supermario-game.com/mario-game/mario.html 
 Game name:Super mario bros 1🍄
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNE-UXYIkebMRGR3_8_m7XktJZBeyOLyVHw&s
+Category:Retro
 
 Website url:https://gamesfrog.com/games/nes/super-mario-bros-2/iframe
 Game name:Super mario bros 2🍄
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
+Category:Retro
 
 Website url:https://gam.onl/nes/super-mario-bros-3.html#super-mario-bros-3 
 Game name:Super mario bros 3🍄
 Image url:https://gam.onl/user/nes/logos/Super%20Mario%20Bros.%203%20(USA).png
+Category:Retro
 
 Website url:https://playclassic.games/games/run-and-gun-snes-games-online/play-super-metroid-online/play/ 
 Game name:Super metroid🌌
 Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMetroid_image1600w.jpg
+Category:Retro
 
 Website url:https://gamesfrog.com/games/gba/metroid-fusion/iframe 
 Game name:Metroid fusion👩‍🚀
 Image url:https://shmuplations.com/wp-content/uploads/2022/01/metroidfusion00.jpg
+Category:Retro
 
 Website url:https://www.retrogames.cc/snes-games/donkey-kong-country-usa.html
 Game name:Donkey Kong Country 🍌
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
+Category:Retro
 
 Website url:https://playclassic.games/games/adventure-dos-games-online/oregon-trail-game/play/ 
 Game name:Oregon Trail 🐂
 Image url:https://i.ytimg.com/vi/29mzk7nZ6pA/maxresdefault.jpg
+Category:Retro
 
 Website url:https://webglmath.github.io/moto-x3m/ 
 Game name:Moto x3m 🏍️
@@ -141,6 +161,7 @@ Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/co
 Website url:https://www.retrogames.cc/embed/40784-crash-bandicoot.html
 Game name: Crash Bandicoot🦊
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(7).jpeg?v=1747727194439
+Category:Retro
 
 Website url:https://drive-mad-online.github.io/file/
 Game name: Drive mad🛻
@@ -163,6 +184,7 @@ Image url:https://cdn.glitch.global/489895e4-8692-4334-b5d0-e149da9a1438/downloa
 Website url:https://www.fanfreegames.com/game.php?id_juego=19435&id_dominio=2&code=47vevvc2vv1v9v7cv8v8d7vv9b1c2ee1&ads=1
 Game name: Super mario bros world🍄
 Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMarioWorld.jpg
+Category:Retro
 
 Website url:https://userinyerface.com/
 Game name: Userinyerface
@@ -179,6 +201,7 @@ Image url:https://mouse-practice.com/wp-content/uploads/2023/01/tunnelrush.png
 Website url:https://www.retrogames.cz/play_461-DOS.php
 Game name: Spear of Destiny(Wolfenstein's prequel) 🗡️👿
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/images%20(3).jpg?v=1746529425169
+Category:Retro
 
 Website url:https://www.boredbutton.com/
 Game name:Bored button 🔴
