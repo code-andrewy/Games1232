@@ -361,3 +361,7 @@ Image url:https://fast.startgamer.net/i/images/27949/thumb/game_27949_5d9060e314
 Website url:https://startgamer.net/game/27951
 Game name:Bob the robber 4 (Season 1)
 Image url:https://fast.startgamer.net/i/images/27951/thumb/game_27951_5d9071a4bc87a.jpg
+
+Website url: https://startgamer.net/game/27952
+Game name:Bob the robber 4 (Season 2)
+Image url:https://fast.startgamer.net/i/images/27952/thumb/game_27952_5d9085837fc1c.jpeg
