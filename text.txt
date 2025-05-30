@@ -349,3 +349,7 @@ Image url:https://fast.startgamer.net/i/images/28940/thumb/game_28940_5fad189562
 Website url:https://startgamer.net/game/27941
 Game name:Bob the robber
 Image url:https://fast.startgamer.net/i/images/27941/thumb/game_27941_5d8e225539b36.jpeg
+
+Website url:https://startgamer.net/game/27943
+Game name:Bob the robber 2
+Image url:https://fast.startgamer.net/i/images/27943/thumb/game_27943_5d8e2c86b047f.jpeg
