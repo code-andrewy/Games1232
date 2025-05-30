@@ -337,3 +337,7 @@ Image url:https://pizzaedition.win/images/pizzalogo.png
 Website url:https://cigaedu22.github.io/g97/class-412
 Game name: Dreadhead Parkou
 Image url:https://cigaedu22.github.io/img/class-412.png
+
+Website url:https://1games.io/embed/duck-duck-clicker
+Game name: Duckduck clicker 3d
+Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(8).jpeg?v=1748595256004
