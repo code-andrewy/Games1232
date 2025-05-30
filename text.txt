@@ -35,7 +35,7 @@ Game name: MC⛏️
 Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a
 
 Website url:https://code-andrewy.github.io/jumpman64beta/clicker.html
-Game name: Potato clicker
+Game name: Potato clicker🥔
 Image url:https://cdn.glitch.global/f6d350ca-2b81-472a-9642-93d9f1e2fe39/Screenshot%202025-05-30%20024538.png?v=1748587610296
 
 Website url:https://mariofortheboiz.pages.dev/start 
