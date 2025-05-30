@@ -1,3 +1,4 @@
+
 Website url:https://forms.gle/ug1DLTusLaEeQV34A
 Game name: Request games 🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
@@ -328,3 +329,7 @@ Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/downloa
 Website url:https://blobby-boi.github.io/Baldi/
 Game name:Baldi's Basics
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(23).jpg?v=1748498624440
+
+Website url:https://pizzaedition.win/g/
+Game name:The pizza edition 
+Image url:https://pizzaedition.win/images/pizzalogo.png
