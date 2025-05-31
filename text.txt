@@ -3,46 +3,37 @@ Website url:https://forms.gle/ug1DLTusLaEeQV34A
 Game name: Request games 🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
 
-
 Website url:https://code-andrewy.github.io/jumpman64beta/gamepicker.html
 Game name: Random game picker🎮 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
-
 
 Website url:https://code-andrewy.github.io/jumpman64beta/movies.html
 Game name: Movies & Tv Shows🎥
 Image url:https://images.emojiterra.com/openmoji/v15.1/1024px/1f3ac.png
 
-
 Website url:https://organizations.minnit.chat/377538369268026//Main?embed 
 Game name:Chat room💬
 Image url:https://static.vecteezy.com/system/resources/thumbnails/006/692/321/small_2x/chatting-message-icon-template-black-color-editable-chatting-message-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg
-
 
 Website url: https://downloads.webmulator.com/self-load/index.html
 Game name: Emulator💾
 Image url:https://yt3.googleusercontent.com/HNg_MA3lYwk6JCHxftRxRUAcMFK0334jI3-G-ERWMnTe5vIT1fORQ2er531XI_eCnMl4v_Wtk38=s900-c-k-c0x00ffffff-no-rj
 
-
 Website url:https://www.myinstants.com/en/search/?name=MEME
 Game name:Soundboard
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(21).jpg?v=1748333657766 
-
 
 Website url:https://infinite-craft.com/recipes/
 Game name: Infinite craft recipes
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(23).png?v=1748499144975
 
-
 Website url:https://infinitecraftrecipes.io/infinite-craft.embed
 Game name: Infinite craft
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).png?v=1748339820547
 
-
 Website url:https://code-andrewy.github.io/jumpman64beta/mc.html
 Game name: MC⛏️
 Image url:https://assets.nintendo.com/image/upload/q_auto/f_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a
-
 
 Website url:https://code-andrewy.github.io/jumpman64beta/clicker.html
 Game name: Potato clicker🥔
@@ -51,7 +42,6 @@ Image url:https://cdn.glitch.global/f6d350ca-2b81-472a-9642-93d9f1e2fe39/Screens
 Website url:https://mariofortheboiz.pages.dev/start 
 Game name:SM64🌟
 Image url:https://www.rollingstone.com/wp-content/uploads/2025/01/CC_SM-1.jpg?w=1581&h=1054&crop=1
-
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-ii-hell-earth-online/play/
 Game name:Doom 2🔫
@@ -66,96 +56,77 @@ Website url:https://www.retrogames.cz/play_908-Genesis.php?language=EN
 Game name:X-men🦸‍♂️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/X-men-logo.webp?v=1746010830176
 
-
 Website url:https://pacman.live/play.html 
 Game name:Pac man👻
 Image url:https://media.tenor.com/C22FQku5MPYAAAAM/pacman-eating-dots.gif
-
 
 Website url:https://gamesfrog.com/games/n64/paper-mario/iframe
 Game name:Paper mario🍄
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpg?v=1745648011322
 
-
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-wolfenstein-3d-online/play/ 
 Game name:Wolfenstein 3D🔫
 Image url:https://cdn.mobygames.com/4aac86a8-e3ff-11ef-8b64-02420a00016a.webp
-
 
 Website url:https://happyhopper.org/ 
 Game name:Frogger🐸
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0Da0z7d_s8Dl_npMXVjfSXRnZIASg6Jsmw&s
 
-
 Website url:https://static.arcadespot.com/retroemulator.php?system=n64&game=2017/06/donkey-kong-64.zip 
 Game name:Donkey Kong 64🍌
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).jpg?v=1745647082403
-
 
 Website url:https://www.allsonicgames.net/sonic-the-hedgehog.php 
 Game name:Sonic 🦔
 Image url:https://m.media-amazon.com/images/I/51xMP0QnIjL.png
 
-
 Website url:https://mkpc.malahieude.net/mariokart.php 
 Game name:Mario kart🚗
 Image url:https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG
-
 
 Website url:https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/ 
 Game name:Doom💀
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXohmzYM9CNUz5eu9YHKpJa1CWI_sUEV3SlQ&s
 
-
 Website url:https://www.retrogames.cz/play_987-N64.php 
 Game name:007 Goldeneye🕵️‍♂️
 Image url:https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
-
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/games3/fighter2 
 Game name:Street fighter 2👊
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20063727.png?v=1746009463220
 
-
 Website url:https://supermario-game.com/mario-game/mario.html 
 Game name:Super mario bros 1🍄
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNE-UXYIkebMRGR3_8_m7XktJZBeyOLyVHw&s
-
 
 Website url:https://gamesfrog.com/games/nes/super-mario-bros-2/iframe
 Game name:Super mario bros 2🍄
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
 
-
 Website url:https://gam.onl/nes/super-mario-bros-3.html#super-mario-bros-3 
 Game name:Super mario bros 3🍄
 Image url:https://gam.onl/user/nes/logos/Super%20Mario%20Bros.%203%20(USA).png
-
 
 Website url:https://playclassic.games/games/run-and-gun-snes-games-online/play-super-metroid-online/play/ 
 Game name:Super metroid🌌
 Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMetroid_image1600w.jpg
 
-
 Website url:https://gamesfrog.com/games/gba/metroid-fusion/iframe 
 Game name:Metroid fusion👩‍🚀
 Image url:https://shmuplations.com/wp-content/uploads/2022/01/metroidfusion00.jpg
-
 
 Website url:https://www.retrogames.cc/snes-games/donkey-kong-country-usa.html
 Game name:Donkey Kong Country 🍌
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpleG3bFSbbRrNHuy5HoIS_5e2kAXdZ1aVtQ&s
 
-
 Website url:https://playclassic.games/games/adventure-dos-games-online/oregon-trail-game/play/ 
 Game name:Oregon Trail 🐂
 Image url:https://i.ytimg.com/vi/29mzk7nZ6pA/maxresdefault.jpg
 
-
 Website url:https://webglmath.github.io/moto-x3m/ 
 Game name:Moto x3m 🏍️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(14).jpg?v=1746010444325
-
 
 Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games5/motox3m2
 Game name: Motox 3m 2
@@ -165,11 +136,9 @@ Website url:https://www.retrogames.cc/embed/40784-crash-bandicoot.html
 Game name: Crash Bandicoot🦊
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(7).jpeg?v=1747727194439
 
-
 Website url:https://drive-mad-online.github.io/file/
 Game name: Drive mad🛻
 Image url:https://www.drivemad.com/img/android-chrome-512x512.png
-
 
 Website url:https://en.gameslol.net/data/adcapitalist/index.html
 Game name: Adventure capitalism🍋
@@ -179,16 +148,13 @@ Website url:https://player.work/cookie-clicker/
 Game name: Cookie Clicker🍪
 Image url:https://ih1.redbubble.net/image.1400424304.4932/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
 
-
 Website url:https://thetinyfishing.com/game/tinyfishing/index.html
 Game name: Tiny Fishing🐟
 Image url:https://cdn.glitch.global/489895e4-8692-4334-b5d0-e149da9a1438/download%20(15).jpg?v=1746295028750
 
-
 Website url:https://www.fanfreegames.com/game.php?id_juego=19435&id_dominio=2&code=47vevvc2vv1v9v7cv8v8d7vv9b1c2ee1&ads=1
 Game name: Super mario bros world🍄
 Image url:https://www.nintendo.com/eu/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMarioWorld.jpg
-
 
 Website url:https://userinyerface.com/
 Game name: Userinyerface
@@ -198,16 +164,13 @@ Website url:https://stimulationclicker.com/stimulation-clicker.embed
 Game name: Stimulation clicker🖱️
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(17).jpg?v=1746434475145
 
-
 Website url:https://sz-games.github.io/games/tunnel-rush/
 Game name: Tunnel rush
 Image url:https://mouse-practice.com/wp-content/uploads/2023/01/tunnelrush.png
 
-
 Website url:https://www.retrogames.cz/play_461-DOS.php
 Game name: Spear of Destiny(Wolfenstein's prequel) 🗡️👿
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/images%20(3).jpg?v=1746529425169
-
 
 Website url:https://www.boredbutton.com/
 Game name:Bored button 🔴
@@ -221,7 +184,6 @@ Website url:https://g.igroutka.ru/games/164/CjgS2O06mqMahbd8/12/subway_surfers_i
 Game name: Subway Surfers
 Image url:https://subway-surfers.org/wp-content/uploads/2025/01/Subway-surfers-iceland-2024.jpg
 
-
 Website url:https://slope.faav.top/
 Game name: Slope
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download.png?v=1746886332873
@@ -229,7 +191,6 @@ Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/downloa
 Website url:https://sz-games.github.io/games/unity.html?game=https://sz-games.github.io/Games/backrooms
 Game name: Backrooms 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/backroom.webp
-
 
 Website url:https://sz-games.github.io/games/game.html?game=https://mr-funkinguy.github.io/gfile/doodle/index.html
 Game name: Doodle jump
@@ -243,16 +204,13 @@ Website url:https://sz-games.github.io/
 Game name: Sz games
 Image url:https://raw.githubusercontent.com/sz-games/home/refs/heads/main/G.png
 
-
 Website url:https://startgamer.net/
 Game name: Start gamer
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000009d10622f914dec97e3e3a6cf.png?v=1747382711592
 
-
 Website url:https://sz-games.github.io/games/bloxx
 Game name: Bloxorz
 Image url:https://github.com/sz-games/sz-games.github.io/blob/main/cover/blox.jpeg?raw=true
-
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/storage3/eelslap/
 Game name: Eelslap
@@ -262,61 +220,49 @@ Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.gi
 Game name: Fleeing the complex 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Complex.webp
 
-
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games7/escaping_the_prison.swf?raw=true
 Game name:Escaping the prison 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/Prison.webp
-
 
 Website url:https://sz-games.github.io/games/Flash.html?game=https://sz-games.github.io/Games6/Henry%20Stickmin%20-%20Breaking%20the%20Bank.swf?raw=true
 Game name: Breaking the bank 💰 
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BankH.webp
 
-
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games/paperio2/index.html
 Game name: Paper io 2
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/paperio.webp
-
 
 Website url:https://flyufo.io/
 Game name: Fly ufo 
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(5).jpeg?v=1747304678668
 
-
 Website url:https://holeio.com/
 Game name: Hole io
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpeg?v=1747304840617
-
 
 Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games9/fruitninja/
 Game name: Fruit ninja
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/FRUITNINJA.png
 
-
 Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games5/jetpack-joyride/
 Game name: Jetpack joyride
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/jetpackjoyride.webp
-
 
 Website url: https://sz-games.github.io/games/game.html?game=/Games11/basketbros
 Game name: Basketbros
 Image url: https://sz-games.github.io/cover/BASKETBRO.png
 
-
 Website url: https://pvz.ee/
 Game name: Plants vs Zombies(fixed) 
 Image url: https://sz-games.github.io/cover/pvz.png
-
 
 Website url:https://thirtydollar.website/
 Game name: 30 dollar website (new sounds)
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/30dollarwebsite.png
 
-
 Website url:https://block-blast.io/game/block-blast/
 Game name: Block blast
 Image url: https://sz-games.github.io/cover/blockblast.jpg
-
 
 Website url:https://sweltering-rust-place.glitch.me/
 Game name: Monster Miner
@@ -326,16 +272,13 @@ Website url:https://neon-spice-writer.glitch.me/
 Game name: Getting over it
 Image url: https://cdn.glitch.global/a620e573-88c3-443a-9efd-a3568749d2b8/download%20(7).png?v=1748161117724
 
-
 Website url:https://sz-games.github.io/Games11/magictiles/
 Game name: Magic tiles
 Image url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQWmslyDYHqtZMrZhahb9utEaHpWPf_8TFw&s
 
-
 Website url:https://mr-funkinguy.github.io/gfile/dreader/index.html
 Game name: Dreader
 Image url: https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(20).jpg?v=1748162189519
-
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games6/bigredbutton
 Game name: A big red button
@@ -358,7 +301,6 @@ Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.git
 Game name:Vex 4
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
 
-
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex5
 Game name:Vex 5
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
@@ -366,7 +308,6 @@ Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/co
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex6
 Game name:Vex 6
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
-
 
 Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex7
 Game name:Vex 7
@@ -380,41 +321,33 @@ Website url:https://lagged.com/en/g/sharkosaurus-rampage
 Game name:Sharkosaurus rampage(Fixed)
 Image url: https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(22).jpg?v=1748335895068
 
-
 Website url:https://2048game.com/
 Game name:2048
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(8).png?v=1748336134793
-
 
 Website url:https://blobby-boi.github.io/Baldi/
 Game name:Baldi's Basics
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(23).jpg?v=1748498624440
 
-
 Website url:https://pizzaedition.win/g/
 Game name:The pizza edition 
 Image url:https://pizzaedition.win/images/pizzalogo.png
-
 
 Website url:https://cigaedu22.github.io/g97/class-412
 Game name: Dreadhead Parkou
 Image url:https://cigaedu22.github.io/img/class-412.png
 
-
 Website url:https://1games.io/embed/duck-duck-clicker
 Game name: Duckduck clicker 3d
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(8).jpeg?v=1748595256004
-
 
 Website url:https://startgamer.net/game/28940#mf
 Game name: Crossy road
 Image url:https://fast.startgamer.net/i/images/28940/thumb/game_28940_5fad1895620de.jpg
 
-
 Website url:https://startgamer.net/game/27941
 Game name:Bob the robber
 Image url:https://fast.startgamer.net/i/images/27941/thumb/game_27941_5d8e225539b36.jpeg
-
 
 Website url:https://startgamer.net/game/27943
 Game name:Bob the robber 2
@@ -424,21 +357,17 @@ Website url:https://startgamer.net/game/27949
 Game name:Bob the robber 3
 Image url:https://fast.startgamer.net/i/images/27949/thumb/game_27949_5d9060e314f16.jpg
 
-
 Website url:https://startgamer.net/game/27951
 Game name:Bob the robber 4 (Season 1)
 Image url:https://fast.startgamer.net/i/images/27951/thumb/game_27951_5d9071a4bc87a.jpg
-
 
 Website url: https://startgamer.net/game/27952
 Game name:Bob the robber 4 (Season 2)
 Image url:https://fast.startgamer.net/i/images/27952/thumb/game_27952_5d9085837fc1c.jpeg
 
-
 Website url: https://startgamer.net/game/27954
 Game name:Bob the robber 5: Temple adventure 
 Image url:https://fast.startgamer.net/i/images/27954/thumb/game_27954_5d90a29c9ca41.jpeg
-
 
 Website url: https://startgamer.net/game/28998
 Game name:Temple run 2
