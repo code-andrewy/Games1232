@@ -372,3 +372,19 @@ Image url:https://fast.startgamer.net/i/images/27954/thumb/game_27954_5d90a29c9c
 Website url: https://startgamer.net/game/28998
 Game name:Temple run 2
 Image url:https://fast.startgamer.net/i/images/28998/thumb/game_28998_61b8b5879bb48.jpg
+
+Website url:https://run3.io/popgame/fnaf/fnaf1/
+Game name:Fnaf 1
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJxEmVK-qqqww0f2wubYVqpO4ZgnDUwV3zA&s
+
+Website url:https://fnaf-2.io/fnaf-2.embed
+Game name:Fnaf 2
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiotBc7-bJLiB2-D1NHmsnjTo4ixt5uBZNg&s
+
+Website url:https://fnaf-2.io/fnaf-3.embed
+Game name:Fnaf 3
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6oPc-2xG71Yu6vmFXF6k5IqCsCizLM0DSuQ&s
+
+Website url:https://run3.io/popgame/fnaf/fnaf4.html
+Game name:Fnaf 4
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZzaQrD-VFsRw4Iaio5WF81Y47_3UYUXKUQ&s
