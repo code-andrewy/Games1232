@@ -400,3 +400,7 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ZzaQrD-VFsRw4I
 Website url:https://fivenightsatfreddys3.com/five-nights-at-freddys-sister-location.embed
 Game name:Fnaf 5
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR35FVmJlZxE_fuBRSK2Ag&s
+
+Website url:https://wikispeedrun.org/settings
+Game name:Wikispeedrun
+Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR35FVmJlZxE_fuBRSK2Ag&s
