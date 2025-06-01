@@ -403,4 +403,4 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR
 
 Website url:https://wikispeedrun.org/settings
 Game name:Wikispeedrun
-Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR35FVmJlZxE_fuBRSK2Ag&s
+Image url:https://wikispeedrun.org//new-wiki-logo-dark.webp
