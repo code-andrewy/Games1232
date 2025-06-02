@@ -289,7 +289,7 @@ Image url: https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/downlo
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games6/bigredbutton
 Game name: A big red button
-Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BRB5.png
+Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(24).jpg?v=1748852826206
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://www.play-games.com/embed/24175.html
 Game name:Vex 1
@@ -317,11 +317,11 @@ Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/downloa
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games7/vex7
 Game name:Vex 7
-Image url: https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(25).jpg?v=1748852897557
+Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(25).jpg?v=1748852897557
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://blobby-boi.github.io/vex8/
 Game name:Vex 8
-Image url: https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(25).jpg?v=1748852897557
+Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(25).jpg?v=1748852897557
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game-player.html?game=https://lagged.com/en/g/sharkosaurus-rampage
 Game name:Sharkosaurus rampage(Fixed)
