@@ -404,3 +404,7 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR
 Website url:https://wikispeedrun.org/settings
 Game name:Wikispeedrun
 Image url:https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/255px-Wikipedia-logo-v2.svg.png
+
+Website url:https://loadingscreenbitt.glitch.me/?game=https://wikispeedrun.org/settings
+Game name:Wikispeedrun 2
+Image url:https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/255px-Wikipedia-logo-v2.svg.png
