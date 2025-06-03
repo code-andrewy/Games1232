@@ -291,7 +291,6 @@ Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.git
 Game name: A big red button
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/BRB5.png
 
-
 Website url:https://www.play-games.com/embed/24175.html
 Game name:Vex 1
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
@@ -340,7 +339,7 @@ Website url:https://cigaedu22.github.io/g97/class-412
 Game name: Dreadhead Parkou
 Image url:https://cigaedu22.github.io/img/class-412.png
 
-Website url:https://1games.io/embed/duck-duck-clicker
+Website url:https://www.hoodamath.com/mobile/games/duck-duck-clicker-3d/game.html?nocheckorient=1
 Game name: Duckduck clicker 3d
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(8).jpeg?v=1748595256004
 
