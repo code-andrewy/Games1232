@@ -324,7 +324,7 @@ Game name:Vex 8
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/vex3.png
 
 Website url:https://lagged.com/en/g/sharkosaurus-rampage
-Game name:Sharkosaurus rampage(Fixed)
+Game name:Sharkosaurus rampage
 Image url: https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(22).jpg?v=1748335895068
 
 Website url:https://2048game.com/
