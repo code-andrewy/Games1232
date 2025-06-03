@@ -10,8 +10,8 @@ Website url:https://code-andrewy.github.io/jumpman64beta/movies.html
 Game name: Movies & Tv Shows🎥
 Image url:https://images.emojiterra.com/openmoji/v15.1/1024px/1f3ac.png
 
-Website url: https://code-andrewy.github.io/jumpman64beta/bitt-yt.html
-Game name:Youtube
+Website url: https://code-andrewy.github.io/jumpman64beta/bittyt-fixed.html
+Game name:Youtube (Fixed)
 Image url:https://cdn.glitch.global/09ae2929-e403-48bf-8956-44a56b9d49ba/download%20(5).png?v=1748781329800
 
 Website url:https://organizations.minnit.chat/377538369268026//Main?embed 
@@ -260,11 +260,11 @@ Game name: Basketbros
 Image url: https://sz-games.github.io/cover/BASKETBRO.png
 
 Website url: https://pvz.ee/
-Game name: Plants vs Zombies(fixed) 
+Game name: Plants vs Zombies
 Image url: https://sz-games.github.io/cover/pvz.png
 
 Website url:https://thirtydollar.website/
-Game name: 30 dollar website (new sounds)
+Game name: 30 dollar website 
 Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/30dollarwebsite.png
 
 Website url:https://block-blast.io/game/block-blast/
