@@ -399,3 +399,15 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBoc42iU9fti_uR
 Website url:https://wikispeedrun.org/settings
 Game name:Wikispeedrun
 Image url:https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/255px-Wikipedia-logo-v2.svg.png
+
+Website url:https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/theimpossiblequiz/index.html
+Game name:The impossible quiz
+Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(10).png?v=1748933787026
+
+Website url:https://play.gamepix.com/screw-puzzle-nuts-and-bolts/embed?sid=e4515
+Game name:Screw puzzle nuts and bolts
+Image url:https://thaka.bing.com/th?id=OCGE.9n21399h2r5p_v3_main_webp&w=124&h=124&qlt=80&c=0&rs=1
+
+Website url:https://lnahtml.github.io/a6/sausage-flip/
+Game name: Sausage flip
+Image url:https://sausageflip.github.io/images/logo.png
