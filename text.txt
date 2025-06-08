@@ -442,3 +442,7 @@ Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/downloa
 Website url:https://azgames.io/loop-breakout.embed
 Game name: Loop Breakout
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(12).png?v=1749364570317
+
+Website url:https://1games.io/embed/doom-rider
+Game name: Doom Rider
+Image url:https://images.1games.io/cache/game/doom-rider/doom-rider-m200x130.webp
