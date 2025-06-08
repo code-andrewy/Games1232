@@ -495,6 +495,6 @@ Website url: https://shellshock.io/
 Game name:shellshockers
 Image url:https://www.shellshock.io/img/previewImage_shellShockers.webp
 
-Website url: http://houseofhazards.com/1.embed
+Website url:https://htmlxm.github.io/h/house-of-hazards/
 Game name:House of hazards
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(35).jpg?v=1749370610717
