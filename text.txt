@@ -486,3 +486,7 @@ Image url:https://azgames.io/upload/cache/upload/imgs/colorrush2-m180x180.webp
 Website url:https://azgames.io/white-horizon.embed
 Game name:White Horizon
 Image url:https://azgames.io/upload/cache/upload/imgs/whitehorizon-m180x180.webp
+
+Website url:GeoGuessr
+Game name:https://openguessr.com/
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(13).png?v=1749369357774
