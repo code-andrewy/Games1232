@@ -79,8 +79,8 @@ Website url:https://happyhopper.org/
 Game name:Frogger🐸
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO0Da0z7d_s8Dl_npMXVjfSXRnZIASg6Jsmw&s
 
-Website url:https://static.arcadespot.com/retroemulator.php?system=n64&game=2017/06/donkey-kong-64.zip 
-Game name:Donkey Kong 64🍌
+Website url:https://www.retrogames.cc/n64-games/donkey-kong-64-usa.html
+Game name:Donkey Kong 64🍌 (Fixed)
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(4).jpg?v=1745647082403
 
 Website url:https://www.allsonicgames.net/sonic-the-hedgehog.php 
