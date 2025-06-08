@@ -463,3 +463,10 @@ Website url:https://azgames.io/escape-road-2.embed
 Game name: Escape Road 2
 Image url:https://azgames.io/upload/cache/upload/imgs/escape-road-2-m96x96.webp
 
+Website url:https://azgames.io/traffic-road.embed
+Game name: Traffic road
+Image url:https://azgames.io/upload/cache/upload/imgs/trafficroad-m96x96.webp
+
+Website url:https://code-andrewy.github.io/jumpman64beta/warning.html
+Game name: Wacky nursery
+Image url:https://azgames.io/upload/cache/upload/imgs/wackynursery1-m180x180.webp
