@@ -482,3 +482,7 @@ Image url:https://azgames.io/upload/cache/upload/imgs/flippyrace-m180x180.webp
 Website url:https://azgames.io/color-rush.embed
 Game name: Color rush
 Image url:https://azgames.io/upload/cache/upload/imgs/colorrush2-m180x180.webp
+
+Website url:https://azgames.io/white-horizon.embed
+Game name:White Horizon
+Image url:https://azgames.io/upload/cache/upload/imgs/whitehorizon-m180x180.webp
