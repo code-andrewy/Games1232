@@ -11,7 +11,7 @@ Game name: Movies & Tv Shows🎥
 Image url:https://images.emojiterra.com/openmoji/v15.1/1024px/1f3ac.png
 
 Website url: https://code-andrewy.github.io/jumpman64beta/bittyt-fixed.html
-Game name:Youtube (Fixed)
+Game name:Youtube 
 Image url:https://cdn.glitch.global/09ae2929-e403-48bf-8956-44a56b9d49ba/download%20(5).png?v=1748781329800
 
 Website url:https://organizations.minnit.chat/377538369268026//Main?embed 
@@ -415,8 +415,8 @@ Website url:https://lnahtml.github.io/a5/idle-ants/
 Game name: Idle Ants
 Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(28).jpg?v=1748934347609
 
-Website url:https://lnahtml.github.io/a7/highway-traffic/
-Game name:highway traffic
+Website url:https://www.onlinegames.io/games/2022/unity/highway-traffic/index.html
+Game name:highway traffic (Removed watermark)
 Image url:https://gameforge.com/de-DE/littlegames/includes/images/games/10019_5eb3f067df246.jpg
 
 Website url:https://skribbl.io/
