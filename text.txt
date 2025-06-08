@@ -431,7 +431,7 @@ Website url:https://html5games.com/
 Game name: html5games
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(11).png?v=1749355353414
 
-Website url:https://geometry-lite.io/embed/italian-brainrot-clicker
+Website url:https://1games.io/embed/italian-brainrot-clicker
 Game name: Italin brainrot clicker
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(34).jpg?v=1749364571851
 
