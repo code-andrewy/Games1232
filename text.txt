@@ -55,8 +55,8 @@ Game name:Doom 2🔫
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(6).jpg?v=1745648739422
 
 
-Website url: https://geometrydash-lite.com/
-Game name: Geometry dash🎵
+Website url: https://geometrydash-lite.com/geometry-dash-lite.embed
+Game name: Geometry dash🎵 (Updated)
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20063052.png?v=1746009119907
 
 Website url:https://www.retrogames.cz/play_908-Genesis.php?language=EN 
