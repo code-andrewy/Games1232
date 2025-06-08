@@ -430,3 +430,15 @@ Image url:https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPar
 Website url:https://html5games.com/
 Game name: html5games
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(11).png?v=1749355353414
+
+Website url:https://geometry-lite.io/embed/italian-brainrot-clicker
+Game name: Italin brainrot clicker
+Image url:https://geometry-lite.io/cache/data/image/game/italian-brainrot-clicker/italian-brainrot-clicker-m320x180.webp
+
+Website url:https://html-classic.itch.zone/html/13742665/Production%20WebGL/index.html
+Game name: Super Auto Pets
+Image url:https://geometry-lite.io/cache/data/image/game/super-auto-pets/super-auto-pets-m320x180.webp
+
+Website url:https://geometry-lite.io/embed/loop-breakout
+Game name: Loop Breakout
+Image url:https://geometry-lite.io/cache/data/image/game/loop-breakout/loop-breakout-m320x180.webp
