@@ -454,3 +454,8 @@ Image url:https://images.1games.io/cache/game/grow-a-garden/grow-a-garden-m200x1
 Website url:https://1games.io/embed/escape-road-city
 Game name:Escape Road City
 Image url:https://images.1games.io/cache/game/escape-road-city/escape-road-city-1-m200x130.webp
+
+Website url:https://1games.io/embed/red-rush
+Game name: Red rush
+Image url:https://images.1games.io/cache/game/red-rush/red-rush-m200x130.webp
+
