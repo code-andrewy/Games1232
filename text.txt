@@ -439,6 +439,6 @@ Website url:https://html-classic.itch.zone/html/13742665/Production%20WebGL/inde
 Game name: Super Auto Pets
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(33).jpg?v=1749364577250
 
-Website url:https://geometry-lite.io/embed/loop-breakout
+Website url:https://azgames.io/loop-breakout.embed
 Game name: Loop Breakout
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(12).png?v=1749364570317
