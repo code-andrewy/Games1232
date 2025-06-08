@@ -459,3 +459,7 @@ Website url:https://1games.io/embed/red-rush
 Game name: Red rush
 Image url:https://images.1games.io/cache/game/red-rush/red-rush-m200x130.webp
 
+Website url:https://azgames.io/escape-road-2.embed
+Game name: Escape Road 2
+Image url:https://azgames.io/upload/cache/upload/imgs/escape-road-2-m96x96.webp
+
