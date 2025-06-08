@@ -470,3 +470,11 @@ Image url:https://azgames.io/upload/cache/upload/imgs/trafficroad-m96x96.webp
 Website url:https://code-andrewy.github.io/jumpman64beta/warning.html
 Game name: Wacky nursery
 Image url:https://azgames.io/upload/cache/upload/imgs/wackynursery1-m180x180.webp
+
+Website url:https://azgames.io/wacky-flip.embed
+Game name: Wacky Flip
+Image url:https://azgames.io/upload/cache/upload/imgs/wackyflip-m180x180.webp
+
+Website url:https://azgames.io/jetski-race.embed
+Game name: Jetski Race
+Image url:https://azgames.io/upload/cache/upload/imgs/flippyrace-m180x180.webp
