@@ -433,12 +433,12 @@ Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/downloa
 
 Website url:https://geometry-lite.io/embed/italian-brainrot-clicker
 Game name: Italin brainrot clicker
-Image url:https://geometry-lite.io/cache/data/image/game/italian-brainrot-clicker/italian-brainrot-clicker-m320x180.webp
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(34).jpg?v=1749364571851
 
 Website url:https://html-classic.itch.zone/html/13742665/Production%20WebGL/index.html
 Game name: Super Auto Pets
-Image url:https://geometry-lite.io/cache/data/image/game/super-auto-pets/super-auto-pets-m320x180.webp
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(33).jpg?v=1749364577250
 
 Website url:https://geometry-lite.io/embed/loop-breakout
 Game name: Loop Breakout
-Image url:https://geometry-lite.io/cache/data/image/game/loop-breakout/loop-breakout-m320x180.webp
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(12).png?v=1749364570317
