@@ -493,7 +493,7 @@ Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/downloa
 
 Website url: https://shellshock.io/
 Game name:shellshockers
-Image url:https://www.shellshock.io/img/previewImage_shellShockers.webp
+Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/download%20(9).jpeg?v=1749640437458
 
 Website url:https://htmlxm.github.io/h/house-of-hazards/
 Game name:House of hazards
