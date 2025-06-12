@@ -498,3 +498,11 @@ Image url:https://cdn.glitch.global/a68e9388-f188-4c59-8717-e526bfed7cdf/downloa
 Website url:https://htmlxm.github.io/h/house-of-hazards/
 Game name:House of hazards
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(35).jpg?v=1749370610717
+
+Website url:https://eparkour.io/
+Game name:eparkour
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/57ig8s5.jpg?v=1749709976844
+
+Website url:https://eparkour2.io/
+Game name:eparkour 2 (demo)
+Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/rtzfrl1.jfif?v=1749710161029
