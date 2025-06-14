@@ -512,5 +512,5 @@ Game name: Eggy Car
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(36).jpg?v=1749710358960
 
 Website url:https://code-andrewy.github.io/jumpman64beta/game23.html
-Game name: Hydrate Fredrick
+Game name: Hydrate Fredrick (Updated (Will finish the update when I get time))
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/close.svg?v=1749712198142
