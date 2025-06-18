@@ -518,3 +518,7 @@ Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/close.s
 Website url:https://krunker.io/
 Game name: Krunker 
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--ow5cHQGt4M70ABplpx1KqDgxmnjgT3mLg&s
+
+Website url:https://doodles.google/search/
+Game name: Google doodles
+Image url:https://cdn.glitch.global/ae3f30d6-6f29-4f92-af76-1f706c309734/download%20(38).jpg?v=1750229462976
