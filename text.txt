@@ -469,7 +469,7 @@ Image url:https://azgames.io/upload/cache/upload/imgs/trafficroad-m96x96.webp
 
 Website url:https://code-andrewy.github.io/jumpman64beta/warning.html
 Game name: Wacky nursery
-Image url:https://azgames.io/upload/cache/upload/imgs/wackynursery1-m180x180.webp
+Image url:https://photos.fife.usercontent.google.com/pw/AP1GczOVRg7h9q9M32-DQ4bnTH7JCXfOjh4Pzj_lNMruFOck6oFAhMVSDjQK=w200-h130-s-no-gm?authuser=0
 
 Website url:https://code-andrewy.github.io/jumpman64beta/agething.html
 Game name: Wacky nursery 2
