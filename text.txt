@@ -30,6 +30,10 @@ Website url:https://code-andrewy.github.io/jumpman64beta/rbx.html
 Game name: Roblox
 Image url:https://cdn.glitch.global/fafb2816-3e75-42db-a4c9-811a46ff3e3d/image-removebg-preview%20(12).png?v=1748673647247
 
+Website url:https://1games.io/embed/deltarune
+Game name: Deltarune
+Image url:https://cdn.glitch.global/fafb2816-3e75-42db-a4c9-811a46ff3e3d/image-removebg-preview%20(12).png?v=1748673647247
+
 Website url:https://infinite-craft.com/recipes/
 Game name: Infinite craft recipes
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/3e5d7711-699a-41f3-9411-4bd5aca8d8f8.sketchpad%20(23).png?v=1748499144975
