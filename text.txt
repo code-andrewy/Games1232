@@ -32,7 +32,7 @@ Image url:https://cdn.glitch.global/fafb2816-3e75-42db-a4c9-811a46ff3e3d/image-r
 
 Website url:https://1games.io/embed/deltarune
 Game name: Deltarune
-Image url:https://cdn.glitch.global/fafb2816-3e75-42db-a4c9-811a46ff3e3d/image-removebg-preview%20(12).png?v=1748673647247
+Image url:https://images.1games.io/cache/game/deltarune/deltarune-m200x130.webp
 
 Website url:https://infinite-craft.com/recipes/
 Game name: Infinite craft recipes
