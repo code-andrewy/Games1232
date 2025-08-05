@@ -533,4 +533,4 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJs7zAGvVMml7Dg
 
 Website url:http://play.cplegacy.com/
 Game name: Club Penguin
-Image url:https://static.wikia.nocookie.net/club-penguin-rewritten/images/b/b1/Black_PC.png/revision/latest?cb=20170724224805
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(16).png
