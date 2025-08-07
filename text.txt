@@ -555,3 +555,6 @@ Website url:https://freepong.org/
 Game name:Pong
 Image url:https://turbo.freevideogames.org/core-images/menu/pong-game-logo-180.png
 
+Website url:https://freeflappybird.org/
+Game name: Flappy bird
+Image url:https://turbo.freevideogames.org/core-images/menu/flappy-bird-game-logo-180.png
