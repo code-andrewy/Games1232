@@ -553,12 +553,12 @@ Image url:https://classicgamezone.com/games/covers/nes/donkey-kong.jpg
 
 Website url:https://freepong.org/
 Game name:Pong
-Image url:https://freepong.org/favicon.ico
+Image url:https://media.tenor.com/2gyJVMt_L6wAAAAM/pong-video-game.gif
 
 Website url:https://freeflappybird.org/
 Game name: Flappy bird
-Image url:https://freeflappybird.org/favicon.ico
+Image url:https://techcrunch.com/wp-content/uploads/2014/02/flappy.gif
 
 Website url:https://freeinvaders.org/
 Game name: Space invaders
-Image url:https://freeinvaders.org/favicon.ico
+Image url:https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsbTJjcWQ0cmtzZjZscWxtank4NWhieWYydDBpNno3dWsweXF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KY2ZMhnCxP008/giphy.gif
