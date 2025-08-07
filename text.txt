@@ -553,8 +553,12 @@ Image url:https://classicgamezone.com/games/covers/nes/donkey-kong.jpg
 
 Website url:https://freepong.org/
 Game name:Pong
-Image url:https://turbo.freevideogames.org/core-images/menu/pong-game-logo-180.png
+Image url:https://freepong.org/favicon.ico
 
 Website url:https://freeflappybird.org/
 Game name: Flappy bird
-Image url:https://turbo.freevideogames.org/core-images/menu/flappy-bird-game-logo-180.png
+Image url:https://freeflappybird.org/favicon.ico
+
+Website url:https://freeinvaders.org/
+Game name: Space invaders
+Image url:https://freeinvaders.org/favicon.ico
