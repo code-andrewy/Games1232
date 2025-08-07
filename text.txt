@@ -562,3 +562,12 @@ Image url:https://techcrunch.com/wp-content/uploads/2014/02/flappy.gif
 Website url:https://freeinvaders.org/
 Game name: Space invaders
 Image url:https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsbTJjcWQ0cmtzZjZscWxtank4NWhieWYydDBpNno3dWsweXF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KY2ZMhnCxP008/giphy.gif
+
+Website url:https://maze.toys/
+Game name: Maze toys
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/Screenshot%202025-08-07%20035422.png
+
+Website url:https://longdogechallenge.com/
+Game name: longdoge
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/Screenshot%202025-08-07%20035855.png
+
