@@ -538,3 +538,7 @@ Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/ma
 Website url:https://azgames.io/scary-wheels.embed
 Game name: Scary wheels
 Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/scarywheels1-m180x180.webp
+
+Website url:https://azgames.io/god-simulator.embed
+Game name: God simulator
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/godsimulator1-m180x180.webp
