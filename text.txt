@@ -534,3 +534,7 @@ Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJs7zAGvVMml7Dg
 Website url:http://play.cplegacy.com/
 Game name: Club Penguin
 Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(16).png
+
+Website url:https://azgames.io/scary-wheels.embed
+Game name: Scary wheels
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/scarywheels1-m180x180.webp
