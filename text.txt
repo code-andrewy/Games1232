@@ -469,7 +469,7 @@ Image url:https://azgames.io/upload/cache/upload/imgs/escape-road-2-m96x96.webp
 
 Website url:https://azgames.io/traffic-road.embed
 Game name: Traffic road
-Image url:https://azgames.io/upload/cache/upload/imgs/trafficroad-m96x96.webp
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/escaperoad21.png
 
 Website url:https://code-andrewy.github.io/jumpman64beta/warning.html
 Game name: Wacky nursery
