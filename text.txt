@@ -60,7 +60,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 
 
 Website url: https://geometrydash-lite.com/geometry-dash-lite.embed
-Game name: Geometry dash🎵 (Updated)
+Game name: Geometry dash🎵
 Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/Screenshot%202025-04-30%20063052.png?v=1746009119907
 
 Website url:https://www.retrogames.cz/play_908-Genesis.php?language=EN 
@@ -465,11 +465,11 @@ Image url:https://images.1games.io/cache/game/red-rush/red-rush-m200x130.webp
 
 Website url:https://azgames.io/escape-road-2.embed
 Game name: Escape Road 2
-Image url:https://azgames.io/upload/cache/upload/imgs/escape-road-2-m96x96.webp
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/escaperoad21.png
 
 Website url:https://azgames.io/traffic-road.embed
 Game name: Traffic road
-Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/escaperoad21.png
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/traffic-road-m200x130.webp
 
 Website url:https://code-andrewy.github.io/jumpman64beta/warning.html
 Game name: Wacky nursery
