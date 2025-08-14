@@ -573,5 +573,9 @@ Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/ma
 
 Website url:https://startgamer.net/game/31769
 Game name: Dino Miner
-Image url:https://fast.startgamer.net/i/images/31769/thumb/game_31769_689b3a174cada.jpg
+Image url:https://fast.startgamer.net/i/images/31769/thumb/game_31769_689b3a174cada.jpg\
+
+Website url:https://startgamer.net/game/31757
+Game name: Shovel Pirate
+Image url:https://fast.startgamer.net/i/images/31757/thumb/game_31757_6877b72901b25.jpg
 
