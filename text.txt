@@ -579,3 +579,18 @@ Website url:https://startgamer.net/game/31757
 Game name: Shovel Pirate
 Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/game_31757_6877b72901b25.jpg
 
+Website url:https://startgamer.net/game/31762
+Game name:  moving blocks
+Image url:https://github.com/code-andrewy/Games1232/blob/main/game_31762_6885f2a0760a1.jpg?raw=true
+
+Website url:https://startgamer.net/game/31768
+Game name: Doodle Race
+Image url:https://github.com/code-andrewy/Games1232/blob/main/game_31768_689b3832cda94.jpg?raw=true
+
+Website url:https://startgamer.net/game/31730
+Game name: My Super Tiny Market
+Image url:https://github.com/code-andrewy/Games1232/blob/main/game_31730_685a99de521ec.jpg?raw=true
+
+Website url:https://startgamer.net/game/31733
+Game name: Lucky Claw Machine
+Image url:https://github.com/code-andrewy/Games1232/blob/main/game_31733_685ff6bbd1e31.jpg?raw=true
