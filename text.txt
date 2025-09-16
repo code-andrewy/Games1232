@@ -597,13 +597,9 @@ Image url:https://github.com/code-andrewy/Games1232/blob/main/game_31733_685ff6b
 
 Website url:https://startgamer.net/game/29135
 Game name: Choir
-Image url:https://photos.fife.usercontent.google.com/pw/AP1GczMyEiB2kyRQhCszkgnhLC9LP5jRXelWc-ieA6DuAl1YGzZQy-9LrBUM=w300-h168-s-no-gm?authuser=0
+Image url:https://github.com/code-andrewy/cooltext/blob/main/game_29135_605da3002f552.jpg?raw=true
 
 Website url:https://startgamer.net/game/31462
 Game name: Idle Town Billionaire
-Image url:https://photos.fife.usercontent.google.com/pw/AP1GczMyEiB2kyRQhCszkgnhLC9LP5jRXelWc-ieA6DuAl1YGzZQy-9LrBUM=w300-h168-s-no-gm?authuser=0
-
-Website url:https://startgamer.net/game/29137
-Game name: Idle Town Billionaire
-Image url:https://photos.fife.usercontent.google.com/pw/AP1GczM_nvPtFu8m5i6L5ADzFAk49lad2bgS1F7QonD2smL7S9qeE1lpTW0D=w300-h225-s-no-gm?authuser=0
+Image url:https://github.com/code-andrewy/cooltext/blob/main/game_31462_669a949161964.jpg?raw=true
 
