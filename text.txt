@@ -14,6 +14,10 @@ Website url: https://code-andrewy.github.io/jumpman64beta/bittyt-fixed.html
 Game name:Youtube 
 Image url:https://cdn.glitch.global/09ae2929-e403-48bf-8956-44a56b9d49ba/download%20(5).png?v=1748781329800
 
+Website url:https://code-andrewy.github.io/jumpman64beta/brithday-jumpman64.html
+Game name: Birthday jumpman64
+Image url:https://github.com/code-andrewy/Games1232/blob/main/Drawing%20(6).png?raw=true
+
 Website url:https://organizations.minnit.chat/377538369268026//Main?embed 
 Game name:Chat room💬
 Image url:https://static.vecteezy.com/system/resources/thumbnails/006/692/321/small_2x/chatting-message-icon-template-black-color-editable-chatting-message-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg
@@ -602,4 +606,8 @@ Image url:https://github.com/code-andrewy/cooltext/blob/main/game_29135_605da300
 Website url:https://startgamer.net/game/31462
 Game name: Idle Town Billionaire
 Image url:https://github.com/code-andrewy/cooltext/blob/main/game_31462_669a949161964.jpg?raw=true
+
+Website url:https://code-andrewy.github.io/jumpman64beta/brithday-jumpman64.html
+Game name: Birthday jumpman64
+Image url:https://github.com/code-andrewy/Games1232/blob/main/Drawing%20(6).png?raw=true
 
