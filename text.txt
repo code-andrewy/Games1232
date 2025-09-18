@@ -603,7 +603,7 @@ Website url:https://startgamer.net/game/31462
 Game name: Idle Town Billionaire
 Image url:https://github.com/code-andrewy/cooltext/blob/main/game_31462_669a949161964.jpg?raw=true
 
-Website url:https://code-andrewy.github.io/jumpman64beta/brithday-jumpman64.html
-Game name: Birthday jumpman64
-Image url:https://github.com/code-andrewy/Games1232/blob/main/Drawing%20(6).png?raw=true
+Website url:https://code-andrewy.github.io/jumpman64beta/hobo.html
+Game name: Hobo Simlater 
+Image url:https://github.com/code-andrewy/jumpman64beta/blob/main/431593938_480x360.png?raw=true
 
