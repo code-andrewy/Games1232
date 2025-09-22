@@ -30,7 +30,7 @@ Website url:https://code-andrewy.github.io/jumpman64beta/rbx.html
 Game name: Roblox
 Image url:https://cdn.glitch.global/fafb2816-3e75-42db-a4c9-811a46ff3e3d/image-removebg-preview%20(12).png?v=1748673647247
 
-Website url:https://1games.io/embed/deltarune
+Website url:https://1games.io/game/deltarune/
 Game name: Deltarune
 Image url:https://images.1games.io/cache/game/deltarune/deltarune-m200x130.webp
 
