@@ -30,6 +30,10 @@ Website url:https://code-andrewy.github.io/jumpman64beta/n64.html
 Game name: n64
 Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/shopping.webp
 
+Website url:https://code-andrewy.github.io/jumpman64beta/nes.html
+Game name: nes
+Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/gettyimages-459293302-scaled.webp
+
 Website url:https://1games.io/game/deltarune/
 Game name: Deltarune
 Image url:https://images.1games.io/cache/game/deltarune/deltarune-m200x130.webp
