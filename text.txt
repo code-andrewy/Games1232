@@ -27,15 +27,15 @@ Game name:Soundboard
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download%20(21).jpg?v=1748333657766 
 
 Website url:https://code-andrewy.github.io/jumpman64beta/n64.html
-Game name: n64
+Game name: N64
 Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/shopping.webp
 
 Website url:https://code-andrewy.github.io/jumpman64beta/nes.html
-Game name: nes
+Game name: Nes
 Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/gettyimages-459293302-scaled.webp
 
 Website url:https://1games.io/game/deltarune/
-Game name: Deltarune
+Game name: Deltarune (Stop looking at me and play me)
 Image url:https://images.1games.io/cache/game/deltarune/deltarune-m200x130.webp
 
 Website url:https://infinite-craft.com/recipes/
