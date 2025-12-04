@@ -14,8 +14,8 @@ Website url: https://code-andrewy.github.io/jumpman64beta/bittyt-fixed.html
 Game name:Youtube 
 Image url:https://cdn.glitch.global/09ae2929-e403-48bf-8956-44a56b9d49ba/download%20(5).png?v=1748781329800
 
-Website url:https://organizations.minnit.chat/377538369268026//Main?embed 
-Game name:Chat room💬
+Website url:https://organizations.minnit.chat/377538369268026/Main 
+Game name:Chat room💬 (Updated)
 Image url:https://static.vecteezy.com/system/resources/thumbnails/006/692/321/small_2x/chatting-message-icon-template-black-color-editable-chatting-message-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg
 
 Website url: https://downloads.webmulator.com/self-load/index.html
