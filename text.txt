@@ -1,14 +1,26 @@
 Website url:https://code-andrewy.github.io/jumpman64beta/editor.html
-Game name: Request 🎮 
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/file_000000006160622f872885ece52212e2.png?v=1747382902670
+Game name: Request game(s)
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/file_00000000fcc871fdb341024c8b2cfbef.png
+
+Website url:https://drive.google.com/file/d/1-JP52WO-pWB8VfD2dI109mSxo2GXSJoM/view?usp=drivesdk
+Game name: Twas The Night Before Christmas 🎅🎄
+Image url:https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/images.jpeg
+
+Website url:https://code-andrewy.github.io/jumpman64beta/News.html
+Game name: News 🗞️ 
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/file_000000006c5c71f891c04f0b7316bb45.png
+
+Website url:https://gemini-clone-v0.netlify.app/
+Game name: Gemini ✨
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(20).jpeg
 
 Website url:https://code-andrewy.github.io/jumpman64beta/gamepicker.html
-Game name: Random game 🎮 
-Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/download%20(3).png?v=1747516695045
+Game name: Random game picker 🎮 
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/file_000000001dbc71fd968429f434ce76e8.png
 
 Website url:https://popcornhub.pages.dev/
-Game name: Movies & Tv Shows🎥 (fixed)
-Image url:https://images.emojiterra.com/openmoji/v15.1/1024px/1f3ac.png
+Game name: Popcornhub Media 🍿 🎶🎥
+Image url: https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/file_00000000459071f5bf06b6ca7f6fcb7d.png
 
 Website url: https://code-andrewy.github.io/jumpman64beta/bittyt-fixed.html
 Game name:Youtube 
@@ -34,8 +46,20 @@ Website url:https://code-andrewy.github.io/jumpman64beta/nes.html
 Game name: Nes
 Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/gettyimages-459293302-scaled.webp
 
+Website url:https://code-andrewy.github.io/jumpman64beta/game23.html
+Game name: Hydrate Fredrick (Full game)
+Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(3)%20(3).png
+
+Website url:https://code-andrewy.github.io/jumpman64beta/fredrick2.html
+Game name: Hydrate Fredrick 2
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/1765319000240_Drawing.png
+
+Website url:https://code-andrewy.github.io/jumpman64beta/fred3.html
+Game name: Hydrate Fredrick 3
+Image url:https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/792f3cee-4b6f-4964-8cea-939727058012.sketchpad.png
+
 Website url:https://1games.io/game/deltarune/
-Game name: Deltarune (Stop looking at me and play me)
+Game name: Deltarune
 Image url:https://images.1games.io/cache/game/deltarune/deltarune-m200x130.webp
 
 Website url:https://infinite-craft.com/recipes/
@@ -149,7 +173,7 @@ Image url:https://cdn.glitch.global/cb428432-739c-421b-b859-05e48db50f4d/downloa
 
 Website url:https://sz-games.github.io/games/tunnel-rush/
 Game name: Tunnel rush
-Image url:https://mouse-practice.com/wp-content/uploads/2023/01/tunnelrush.png
+Image url:https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/download%20(13).jpeg
 
 Website url:https://www.retrogames.cz/play_461-DOS.php
 Game name: Spear of Destiny(Wolfenstein's prequel) 🗡️👿
@@ -163,13 +187,21 @@ Website url:https://pointerpointer.com/
 Game name:Pointerpointer
 Image url:https://techcrunch.com/wp-content/uploads/2016/07/screen-shot-2016-07-18-at-1-04-39-pm.png
 
-Website url:https://g.igroutka.ru/games/164/CjgS2O06mqMahbd8/12/subway_surfers_iceland/
-Game name: Subway Surfers
-Image url:https://subway-surfers.org/wp-content/uploads/2025/01/Subway-surfers-iceland-2024.jpg
+Website url: https://subwaysurfersonline.com/
+Game name: Subway Surfers (Updated)
+Image url:https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/download%20(12).jpeg
 
 Website url:https://slope.faav.top/
-Game name: Slope
+Game name: Slope 1
 Image url:https://cdn.glitch.global/f209378f-79d0-432d-bb27-ace87626ed73/download.png?v=1746886332873
+
+Website url: https://game.azgame.io/slope-2/
+Game name: Slope 2
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(11).png
+
+Website url: https://slope3.com
+Game name: Slope 3
+Image url:https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(16).jpeg
 
 Website url:https://sz-games.github.io/games/unity.html?game=https://sz-games.github.io/Games/backrooms
 Game name: Backrooms 
@@ -247,11 +279,11 @@ Website url:https://block-blast.io/game/block-blast/
 Game name: Block blast
 Image url: https://sz-games.github.io/cover/blockblast.jpg
 
-Website url:https://sweltering-rust-place.glitch.me/
+Website url:https://turbowarp.org/226357204/embed
 Game name: Monster Miner
 Image url: https://cdn.glitch.global/d23b91b5-5129-4f4f-9626-8801da2d0e36/Screenshot%202025-05-25%20040313.png?v=1748160213108
 
-Website url:https://neon-spice-writer.glitch.me/
+Website url:https://turbowarp.org/390983761/embed
 Game name: Getting over it
 Image url: https://cdn.glitch.global/a620e573-88c3-443a-9efd-a3568749d2b8/download%20(7).png?v=1748161117724
 
@@ -491,10 +523,6 @@ Website url:https://unblocked-games.s3.amazonaws.com/games/2025/beedo/eggy-car/i
 Game name: Eggy Car
 Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/download%20(36).jpg?v=1749710358960
 
-Website url:https://code-andrewy.github.io/jumpman64beta/game23.html
-Game name: Hydrate Fredrick (Full game)
-Image url:https://cdn.glitch.global/68d55bd2-6887-4c3e-8fc3-15b94abd6fb5/close.svg?v=1749712198142
-
 Website url:https://krunker.io/
 Game name: Krunker 
 Image url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--ow5cHQGt4M70ABplpx1KqDgxmnjgT3mLg&s
@@ -591,3 +619,66 @@ Website url:	https://sz-games.github.io/Games9/superhot/index.html
 Game name: Super hot
 Image url:https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/superhot.jpeg
 
+Website url:	https://buckshotroulette.online/game/v13/
+Game name: Russian Roulette with my cat zora
+Image url: https://raw.githubusercontent.com/briansharkey2011-ops/Buckshot-roulette-with-a-anime-femboy/refs/heads/main/image-600x800.jpg.png
+
+Website url:https://sz-games.github.io/games/game.html?game=/Games11/drift-boss/game
+Game name: Drift boss
+Image url: https://sz-games.github.io/cover/driftbosss.jpg
+
+Website url: https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games9/uno/index.html
+Game name: Uno
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/uno.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/games/chess/index.html
+Game name: Chess
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/refs/heads/main/cover/chess.png
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games4/DogeMiner
+Game name: DogeMiner
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/DGMINER.png
+
+Website url:https://sz-games.github.io/games/Flash.html?game=/Games9/Tetris2.swf?raw=true
+Game name: Tetris
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/tetris.webp
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Run3/tn6pS9dCf37xAhkJv
+Game name: Run 3
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/run3s.webp
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games2/wordle
+Game name: Wordle unlimited 
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/wordle.webp
+
+Website url:https://sz-games.github.io/games/game.html?game=https://sz-games.github.io/Games2/spaceCompany
+Game name: Space company
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/spacecompany.png
+
+Website url: https://www.hoodamath.com/games/worldshardestgame.html
+Game name: World's hardest game (Fixed?)
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/5BL.webp
+
+Website url: https://sz-games.github.io/games/Flash.html?game=/Games5/swf/Worlds%20Hardest%20Game%202.swf
+Game name: World's hardest game 2
+Image url: https://raw.githubusercontent.com/sz-games/sz-games.github.io/main/cover/59BJ.jpeg
+
+Website url: https://sz-games.github.io/games/Flash.html?game=/Games11/worldshardestgame3.swf
+Game name: World's hardest game 3
+Image url: https://sz-games.github.io/cover/whg3.png
+
+Website url:https://example.com
+Game name: Test
+Image url: https://raw.githubusercontent.com/code-andrewy/jumpman64beta/refs/heads/main/download%20(14).jpeg
+
+Website url: https://adarkroom.doublespeakgames.com/
+Game name: A dark room
+Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(10).png
+
+Website url:https://www.craftingloop.com/
+Game name: Crafting loop (Minecraft)
+Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/download%20(15).jpeg
+
+Website url:https://startgamer.net/game/30345
+Game name: Stickman Bike Pro Ride
+Image url: https://raw.githubusercontent.com/code-andrewy/Games1232/refs/heads/main/game_30345_6322c7d10f6de.jpg
